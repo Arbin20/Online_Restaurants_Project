@@ -148,7 +148,7 @@ session_start();
 																					
 																								<td>'.$rows['title'].'</td>
 																								<td>'.$rows['slogan'].'</td>
-																								<td>₹'.$rows['price'].'</td>
+																								<td>MKD '.$rows['price'].'</td>
 																								
 																								
 																								<td><div class="col-md-3 col-lg-8 m-b-10">
@@ -178,19 +178,6 @@ session_start();
                                 </div>
                             </div>
                         </div>
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
 						
 						
 						
