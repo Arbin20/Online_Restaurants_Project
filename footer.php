@@ -29,7 +29,7 @@
                                 </div>
                                  <video width="370px"; height="220px" autoplay muted loop id="myVideo" >
   <source src="images/tetovo.mp4" type="video/mp4">
-      
+ 
 </video>
                     </div>
                 </div>
